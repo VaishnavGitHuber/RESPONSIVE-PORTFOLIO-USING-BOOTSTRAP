@@ -1,0 +1,27 @@
+.bg-custome {
+    background-color: #F8F9FA;
+}
+.porfolio-image,.intro-text {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.porfolio-image-text {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+}
+.image-text {
+    height: 25rem;
+}
+.project-cards {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar-anchortags a:hover {
+    font-size: 1.1rem;
+}
